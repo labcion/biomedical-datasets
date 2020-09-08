@@ -30,6 +30,19 @@ https://peir.path.uab.edu/library/
 Paper:
 
 
+## MIMIC CXR-JPG
+
+Datos:
+https://physionet.org/content/mimic-cxr-jpg/2.0.0/
+
+(Hay que registrarse y obtener credenciales completando un curso online https://physionet.org/about/citi-course/ )
+
+Paper:
+> Johnson, Alistair E. W., Tom J. Pollard, Nathaniel R. Greenbaum, Matthew P. Lungren, Chih-ying Deng, Yifan Peng, Zhiyong
+> Lu, Roger G. Mark, Seth J. Berkowitz, and Steven Horng (2019). MIMIC-CXR-JPG, a large publicly available database of
+> labeled chest radiographs. arXiv: 1901.07042 [cs.CV].
+
+
 ## Download scripts
 Para bajar IU X-ray, PEIR GROSS: 
 https://github.com/nlpaueb/bio_image_caption/tree/master/SiVL19
